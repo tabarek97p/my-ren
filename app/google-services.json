@@ -1,0 +1,231 @@
+{
+  "project_info": {
+    "project_number": "140746680065",
+    "firebase_url": "https://dalelnajaf.firebaseio.com",
+    "project_id": "dalelnajaf",
+    "storage_bucket": "dalelnajaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140746680065:android:00c07358ec97c536",
+        "android_client_info": {
+          "package_name": "com.dalel.tbarkhsneen.najaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140746680065-erobr557ag9toncbr25ufusurg5cq3v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalel.tbarkhsneen.najaf",
+            "certificate_hash": "46f6d9254fb584f69b6ff15d838cd8f8cb547942"
+          }
+        },
+        {
+          "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rC5Qy-tEK-ZlpIs21spqCvCHynqW-gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140746680065:android:6321d0aedf136245",
+        "android_client_info": {
+          "package_name": "com.dalel_najaf.codeforiraq.org.dalel_al_najaf2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140746680065-2ttuvqltqo3dv8etbpo45nf348n0avci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalel_najaf.codeforiraq.org.dalel_al_najaf2",
+            "certificate_hash": "46f6d9254fb584f69b6ff15d838cd8f8cb547942"
+          }
+        },
+        {
+          "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rC5Qy-tEK-ZlpIs21spqCvCHynqW-gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140746680065:android:6a10f219ab23cefe",
+        "android_client_info": {
+          "package_name": "com.dalel_najaf.codeforiraq.org.dalelalnajaf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140746680065-da333dq68jgidalp9bsigvtm954abu00.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalel_najaf.codeforiraq.org.dalelalnajaf",
+            "certificate_hash": "46f6d9254fb584f69b6ff15d838cd8f8cb547942"
+          }
+        },
+        {
+          "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rC5Qy-tEK-ZlpIs21spqCvCHynqW-gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140746680065:android:2437bf82df3d4748",
+        "android_client_info": {
+          "package_name": "com.dalel_najaf.codeforiraq.org.newdesigngide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140746680065-gcb7e17esc3il3hb5f2rdnq2rrn58ehn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalel_najaf.codeforiraq.org.newdesigngide",
+            "certificate_hash": "46f6d9254fb584f69b6ff15d838cd8f8cb547942"
+          }
+        },
+        {
+          "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rC5Qy-tEK-ZlpIs21spqCvCHynqW-gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140746680065:android:e5a79a322c3d779b",
+        "android_client_info": {
+          "package_name": "com.dalel_najaf.codeforiraq.org.recyclerview_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140746680065-tucm7abpknf6aoitelpc0hgau44q8alk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalel_najaf.codeforiraq.org.recyclerview_2",
+            "certificate_hash": "46f6d9254fb584f69b6ff15d838cd8f8cb547942"
+          }
+        },
+        {
+          "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6rC5Qy-tEK-ZlpIs21spqCvCHynqW-gc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140746680065-qepbu2lckvsvp9rjd5c9f1pntdsgihu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

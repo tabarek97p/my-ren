@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.dalel_najaf.codeforiraq.org.dalelnajaf">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- External storage permission -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!-- Wallpaper permission -->
+    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+
+    <!--
+         The ACCESS_COARSE/FINE_LOCATION permissions are not required to use
+         Google Maps Android API v2, but you must specify either coarse or fine
+         location permissions for the 'MyLocation' functionality. 
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:hardwareAccelerated="false"
+        android:largeHeap="true"
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+<action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ActivityHistoryNajaf" />
+        <activity android:name=".ActivityHolyPlacese" />
+        <activity android:name=".ActivityHistoricalPlaces" />
+        <activity android:name=".ActivityFunPlaces" />
+        <activity android:name=".ActivityShoppingPlaces" />
+        <activity android:name=".ActivityUnivercityPlaces" />
+        <activity android:name=".ActivityHospitalPlaces" />
+        <activity android:name=".ActivitySubsPlaces" />
+        <activity android:name=".ActivityAirportPlaces" />
+        <activity android:name=".ActivityFootballPlaces" />
+        <activity android:name=".ActivityFoodPlaces" />
+        <activity android:name=".ActivityAboutUs" />
+        <activity android:name=".Dr_najaf" />
+        <activity android:name=".holy_a" />
+        <activity android:name=".holy_b" />
+        <activity android:name=".holy_c" />
+        <activity android:name=".holy_d" />
+        <activity android:name=".holy_e" />
+        <activity android:name=".holy_f" />
+        <activity android:name=".holy_g" />
+        <activity android:name=".holy_h" />
+        <activity android:name=".holy_i" />
+        <activity android:name=".holy_j" />
+        <activity android:name=".holy_k" />
+        <activity android:name=".shopping_a" />
+        <activity android:name=".shopping_b" />
+        <activity android:name=".shopping_c" />
+        <activity android:name=".shopping_d" />
+        <activity android:name=".shopping_e" />
+        <activity android:name=".shopping_f" />
+        <activity android:name=".shopping_g" />
+        <activity android:name=".un_a" />
+        <activity android:name=".un_b" />
+        <activity android:name=".un_c" />
+        <activity android:name=".un_d" />
+        <activity android:name=".un_e" />
+        <activity android:name=".un_f" />
+        <activity android:name=".un_g" />
+        <activity android:name=".un_h" />
+        <activity android:name=".un_i" />
+        <activity android:name=".un_j" />
+        <activity android:name=".fun_a" />
+        <activity android:name=".fun_b" />
+        <activity android:name=".fun_c" />
+        <activity android:name=".fun_d" />
+        <activity android:name=".fun_e" />
+        <activity android:name=".fun_f" />
+        <activity android:name=".fun_g" />
+        <activity android:name=".fun_h" />
+        <activity android:name=".fun_j" />
+        <activity android:name=".fun_k" />
+        <activity android:name=".historic_a" />
+        <activity android:name=".historic_b" />
+        <activity android:name=".historic_c" />
+        <activity android:name=".historic_d" />
+        <activity android:name=".historic_e" />
+        <activity android:name=".historic_f" />
+        <activity android:name=".historic_g" />
+        <activity android:name=".historic_h" />
+        <activity android:name=".historic_i" />
+        <!--
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/. 
+        -->
+
+        <activity android:name=".shopping_h" />
+        <activity android:name=".historic_j" />
+        <activity android:name=".historic_k" />
+        <activity android:name=".historic_L" />
+        <activity android:name=".historic_m" />
+        <activity android:name=".shopping_i" />
+        <activity android:name=".shopping_j" />
+        <activity android:name=".shopping_k" />
+        <activity android:name=".fun_L" />
+        <activity android:name=".fun_i" />
+        <activity android:name=".un_k" />
+    </application>
+
+</manifest>
